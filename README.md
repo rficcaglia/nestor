@@ -75,5 +75,5 @@ Nestor is a group of enthusiastic volunteers who wish to make Confidential Compu
 
 ## FAQs
 - Is Nestor a registered non-profit?
-    - We would love someone who knows this process to discuss the pros/cons of what structure to create, if any.  Please post on slack if you are an expert in these areas and would like to assis!
+    - We would love someone who knows this process to discuss the pros/cons of what structure to create, if any.  Please open an issue if you are an expert in these areas and would like to assist!
 - Become a contributor and add some here!
