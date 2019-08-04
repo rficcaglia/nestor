@@ -57,12 +57,12 @@ Secure Collaborative Computation has many uses in operations research, pharma re
 Today researchers either struggle with prohibitively complex security controls that offer little practical security benefits, or worse simply find workarounds to share data outside of these IT policies and controls. Sadly we have seen many potentially beneficial research projects shelved simply due to the cost, hassle and anxiety over sharing data. 
 
 ## Roadmap
-- Minimal proof of concept Kubernetes deployment version 0.1 (Q2 2019)
-- Minimal job processing framework (Q2 2019)
-- Minimal key management and encryption/decryption features (Q3 2019)
-- Minimal analysis demonstrations (Q3 2019)
-- Initial cohort of research projects and results (Q4'19 - Q1'20)
-- Define 1.0 Requirements and recruit additional research projects (Q2 2020)
+- Minimal proof of concept Kubernetes deployment version 0.1 (Q4 2019)
+- Minimal job processing framework (Q4 2019)
+- Minimal key management and encryption/decryption features 
+- Minimal analysis demonstrations 
+- Initial cohort of research projects and results 
+- Define 1.0 Requirements and recruit additional research projects 
 
 ## Who's Behind Nestor?
 Nestor is a group of enthusiastic volunteers who wish to make Confidential Computing in the cloud so convenient and efficient for analysts that they users have no reason to share data insecurely, and can in turn promote secure collaboration in their organizations and industry groups.  We encourage everyone to join!
