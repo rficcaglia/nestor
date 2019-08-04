@@ -11,6 +11,7 @@
 - https://github.com/lsds/sgx-lkl
 - https://github.com/oscarlab/graphene
 - https://github.com/tf-encrypted/tf-encrypted
+- https://www.serecaproject.eu/index.php/material/opensource
 
 ## SDK
 
@@ -26,8 +27,15 @@
 - https://netsec.ethz.ch/publications/papers/vasudevan_mccune_ning_leendert_perrig_sechyp_trust2010.pdf
 - https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_strackx.pdf
 
+## Kubernetes Specific
+
+- https://docs.google.com/document/d/1QQ5u1RBDLXWvC8K3pscTtTRThsOeBSts_imYEoRyw8A/edit#
+
 ## Articles
 
+- https://qconsf.com/sf2017/system/files/presentation-slides/qconsf-reviewed-ding.pdf
+- https://www.ibr.cs.tu-bs.de/users/brenner/papers/2017-dais-vertxbridge.pdf
+- https://www.doc.ic.ac.uk/research/technicalreports/2017/DTRS17-5.pdf
 - https://tc.gtisc.gatech.edu/bss/2014/r/haven.pdf
 - https://source.android.com/security/trusty
 - https://medium.com/dropoutlabs/secure-logistic-regression-mpc-vs-enclave-benchmark-65cf5f03a81f
